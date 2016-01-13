@@ -17,3 +17,5 @@ You can find the source code for Jekyll at
 ![what](/birds/g.gif)
 
 <img src="/birds/g.gif" height="200" width="200">
+
+hmm...
