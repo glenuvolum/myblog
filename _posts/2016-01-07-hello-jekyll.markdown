@@ -8,3 +8,4 @@ categories: birds
 
 <img src="/birds/g.gif" height="400" width="400">
 
+what?
